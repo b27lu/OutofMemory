@@ -1,7 +1,7 @@
 ---
 title: "Binary Search 总结"
 date: 2018-09-30T15:53:11-04:00
-draft: true
+draft: false
 ---
 
 binary search 最关键的问题就是注意右边界的位置。有两种写法
