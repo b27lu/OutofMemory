@@ -4,5 +4,7 @@ title = "Out of Memory"
 
 theme = "beautifulhugo"
 
+DefaultContentLanguage = "zh"
+
 [Params]
   commit = "https://github.com/b27lu/OutofMemory/tree/"
