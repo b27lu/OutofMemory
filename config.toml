@@ -1,5 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Out of Memory"
 
 theme = "beautifulhugo"
+
+[Params]
+  commit = "https://github.com/b27lu/OutofMemory/tree/"
