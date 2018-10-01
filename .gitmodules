@@ -1,3 +1,4 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
-	url = https://github.com/b27lu/beautifulhugo.git
+    url = https://github.com/b27lu/beautifulhugo.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
