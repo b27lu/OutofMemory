@@ -32,7 +32,7 @@ binary search 最关键的问题就是注意右边界的位置。有两种写法
         if (nums[mid] + temp > target) {
             hi = mid;
         } else if (nums[mid] + temp < target) {
-            lo = mid + 1;
+            lo = mid + 1; 
         } else {
             List<Integer> group = Arrays.asList(nums[i], nums[j], nums[k], nums[mid]);
             result.add(group);
