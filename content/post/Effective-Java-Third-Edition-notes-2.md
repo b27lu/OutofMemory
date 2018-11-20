@@ -1,7 +1,7 @@
 ---
 title: "Effective Java Third Edition Notes 2"
 date: 2018-11-12T22:20:10-05:00
-draft: false
+draft: true
 ---
 
 当`constructor`的参数太多时，考虑使用builder。这篇笔记对应原书
